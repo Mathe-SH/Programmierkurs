@@ -1,7 +1,7 @@
 # Programmierkurs
 Python-Programmierkurs für Mathe^SH.
 
-In diesem Programmierkurs für Python sollen die Schülerinnen und Schüler Grundlagenkenntnisse in Python erhalten. Ziel ist es, die Mathe^SH-Vorträge um kleinere Programmierprojekte zu erweitern, mit denen man komplexere und größere Rechnungen automatisieren kann.
+In diesem Programmierkurs für Python sollen die Schülerinnen und Schüler Grundlagenkenntnisse in Python erhalten. Ziel ist es, die Mathe^SH-Vorträge um kleinere Programmierprojekte zu erweitern, mit denen man komplexere und größere Rechnungen automatisieren kann, um ein besseres Verständnis zu den Themen zu erhalten. Ebenso sollen die Schülerinnen und Schüler einen Eindruck erhalten, wie angewandte Mathematiker arbeiten.
 
 ## Evaluationstest 
 Im Evaluationstest sollen Schülerinnen und Schüler mit Vorkenntnissen testen können, ob sich der Einführungskurs für sie lohnt. Sicherlich gibt es immer Themen, die noch neu sind, bei bereits bekannten Themen ließen sich aber schon kompliziertere Projekte umsetzen.
